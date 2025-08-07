@@ -1,46 +1,66 @@
 <h1 align="center">Hi 👋, I'm Suraj Vishwakarma </h1>
-<h3 align="center">A passionate DevOps enthusiast & Python developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suraj-07823&label=Profile%20views&color=0e75b6&style=flat" alt="Suraj-07823" />
-</p>
+<h3 align="center">Aspiring DevOps Engineer | Python Developer | Cloud Learner</h3>
 
 ---
 
-### 🧑‍💻 About Me:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Python development projects and DevOps tools**  
-- 🌱 Currently learning: **AWS | CI/CD | Docker | Kubernetes | Terraform | GitHub Actions**
-- 👯 I’m looking to collaborate on **open-source DevOps tools and cloud automation projects**
-- 🧠 Exploring **AI in DevOps** and Infrastructure as Code (IaC)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/)  
-- 💻 All my projects are available at: [GitHub](https://github.com/Suraj-07823)
+- 🎓 **B.Tech CSE (2023–2027)** @ G.H. Raisoni College, Nagpur  
+- ☁️ Passionate about **DevOps, Cloud Computing & Automation**  
+- 🛠️ Focused on **AWS, Docker, CI/CD Pipelines, GitHub Actions, and IaC with CloudFormation**  
+- 🚀 Building real-world apps like CampusHub OS & Weather App  
+- 📚 Currently mastering: Kubernetes | Terraform | Monitoring | Serverless  
 
 ---
 
-### 🛠️ Tech Stack:
+### 🔧 Skills & Technologies
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+#### 👨‍💻 Programming & Tools:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-
-**DevOps Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)  
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-
-**Cloud:**  
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)  
-
-**Databases & Frameworks:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+
+#### ☁️ DevOps & Cloud:
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-333333?style=flat&logo=amazonaws)
+
+#### 🛠 Tools:
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 Projects
+
+#### 📌 [Weather App](https://github.com/Suraj-07823/weather_app)
+> 🌦️ A Dockerized web app for live weather data
+> 🔗 **Live Demo**: [Click here to try it out!](https://suraj-07823.github.io/weather_app/)
+🛠️ Flask + Docker + GitHub Actions  
+☁️ Deployed on AWS EC2, S3 for persistent storage  
+📦 IaC infrastructure planned with CloudFormation  
+
+#### 📌 [CampusHub OS](https://github.com/Suraj-07823/CampusHub)
+> 📚 A student collaboration platform  
+🛠️ Flask + Docker + GitHub Actions  
+🚀 CI/CD integrated for seamless deployment  
+☁️ Targeted for AWS EC2 & S3 deployment  
+
+---
+
+### 📜 Certifications
+
+- 🧾 [AWS for Beginners – Certificate](https://drive.google.com/file/d/1LJxivBVygxFrPOytvdFhj16A2QNBpaTZ/view?usp=drive_link)
+- 🧾 [Cloud Computing Service Models – Certificate](https://drive.google.com/file/d/1Cw_SoMJyHopn9kHk9x2LDn_lBHBQqPmp/view?usp=drive_link)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suraj-07823&show_icons=true&theme=github_dark" width="45%" />
@@ -49,19 +69,12 @@
 
 ---
 
-### 🗂️ Featured Projects
+### 🌐 Let's Connect
 
-- 🚀 [**weather_app**](https://github.com/Suraj-07823/weather_app) – Stylish frontend with CSS  
-- 🐍 [**Flask-Tutorial**](https://github.com/Suraj-07823/Flask-Tutorial) – Basics of backend in Flask  
-- ☁️ [**OIBSIP**](https://github.com/Suraj-07823/OIBSIP) – Internship projects on GitHub  
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Suraj-07823)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Suraj-07823)  
+📬 vishwakarmasuraj089504@gmail.com
 
 ---
 
-> 🚧 *Actively building & learning. Contributions are always welcome!*
+> ⚡ *Actively learning & building. Open to internships and collaborations!*
