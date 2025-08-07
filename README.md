@@ -60,15 +60,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-07823&show_icons=true&theme=github_dark" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suraj-07823&theme=github-dark" width="45%" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/)  
