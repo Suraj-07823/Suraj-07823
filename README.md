@@ -45,12 +45,6 @@
 ☁️ Deployed on AWS EC2, S3 for persistent storage  
 📦 IaC infrastructure planned with CloudFormation  
 
-#### 📌 [CampusHub OS](https://github.com/Suraj-07823/CampusHub)
-> 📚 A student collaboration platform  
-🛠️ Flask + Docker + GitHub Actions  
-🚀 CI/CD integrated for seamless deployment  
-☁️ Targeted for AWS EC2 & S3 deployment  
-
 ---
 
 ### 📜 Certifications
