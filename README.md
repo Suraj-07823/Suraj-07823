@@ -8,7 +8,7 @@
 - 🎓 **B.Tech CSE (2023–2027)** @ G.H. Raisoni College of Engineering and Management, Nagpur  
 - ☁️ Passionate about **DevOps, Cloud Computing & Automation**  
 - 🛠️ Focused on **AWS, Docker, CI/CD Pipelines, GitHub Actions, and IaC with CloudFormation**  
-- 🚀 Building real-world apps like CampusHub OS & Weather App  
+- 🚀 Building real-world apps like Weather App  
 - 📚 Currently mastering: Kubernetes | Terraform | Monitoring | Serverless  
 
 ---
