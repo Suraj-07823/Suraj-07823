@@ -39,11 +39,16 @@
 ### 🚀 Projects
 
 #### 📌 [Weather App](https://github.com/Suraj-07823/weather_app)
-> 🌦️ A Dockerized web app for live weather data
-> 🔗 **Live Demo**: [Click here to try it out!](https://suraj-07823.github.io/weather_app/)
-> 🛠️ Flask + Docker + GitHub Actions  
-> ☁️ Deployed on AWS EC2, S3 for persistent storage  
-> 📦 IaC infrastructure planned with CloudFormation  
+
+🌦️ **Live Demo**: [Click here to try it out!](https://your-live-app-link.com)
+
+A web app that delivers real-time weather data with a clean, responsive UI.
+
+- 🛠️ Built using **Python + Flask**
+- 📦 Containerized with **Docker** for consistency across environments
+- 🔄 CI/CD pipeline implemented via **GitHub Actions**
+- ☁️ **Deployed on AWS EC2**, with **S3** for static file storage
+- ⚙️ Infrastructure planning with **AWS CloudFormation (IaC)**
 
 ---
 
