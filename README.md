@@ -47,7 +47,6 @@ A web app that delivers real-time weather data with a clean, responsive UI.
 - 🛠️ Built using **Python + Flask**
 - 📦 Containerized with **Docker** for consistency across environments
 - 🔄 CI/CD pipeline implemented via **GitHub Actions**
-- ☁️ **Deployed on AWS EC2**, with **S3** for static file storage
 - ⚙️ Infrastructure planning with **AWS CloudFormation (IaC)**
 
 ---
