@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Vishwakarma </h1>
+<h1 align="center">Hi I'm Suraj Vishwakarma </h1>
 <h3 align="center">Aspiring DevOps Engineer | Python Developer | Cloud Learner</h3>
 
 ---
