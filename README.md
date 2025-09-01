@@ -40,7 +40,7 @@
 
 #### 📌 [Weather App](https://github.com/Suraj-07823/weather_app)
 
-🌦️ **Live Demo**: [Click here to try it out!](https://your-live-app-link.com)
+🌦️ **Live Demo**: [Click here to try it out!](https://suraj-07823.github.io/weather_app/)
 
 A web app that delivers real-time weather data with a clean, responsive UI.
 
