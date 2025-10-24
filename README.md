@@ -55,7 +55,7 @@ A web app that delivers real-time weather data with a clean, responsive UI.
 
 - 🧾 [AWS for Beginners – Certificate](https://drive.google.com/file/d/1LJxivBVygxFrPOytvdFhj16A2QNBpaTZ/view?usp=drive_link)
 - 🧾 [Cloud Computing Service Models – Certificate](https://drive.google.com/file/d/1Cw_SoMJyHopn9kHk9x2LDn_lBHBQqPmp/view?usp=drive_link)
-- - 🧾 [Python Internship – Certificate](https://drive.google.com/file/d/1Eh1VU9StH1Xt4ztdIGXZZMCGlBSM6ZEs/view?usp=drive_link)
+- 🧾 [Python Internship – Certificate](https://drive.google.com/file/d/1Eh1VU9StH1Xt4ztdIGXZZMCGlBSM6ZEs/view?usp=drive_link)
 
 ---
 
