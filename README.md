@@ -1,70 +1,135 @@
-<h1 align="center">Hi I'm Suraj Vishwakarma </h1>
-<h3 align="center">Aspiring DevOps Engineer | Python Developer | Cloud Learner</h3>
+# Suraj Vishwakarma
+
+### DevOps & Cloud-Focused Computer Science Student
 
 ---
 
-### 🧑‍💻 About Me
+## 👤 Profile Summary
 
-- 🎓 **B.Tech CSE (2023–2027)** @ G.H. Raisoni College of Engineering and Management, Nagpur  
-- ☁️ Passionate about **DevOps, Cloud Computing & Automation**  
-- 🛠️ Focused on **AWS, Docker, CI/CD Pipelines, GitHub Actions, and IaC with CloudFormation**  
-- 🚀 Building real-world apps like Weather App  
-- 📚 Currently mastering: Kubernetes | Terraform | Monitoring | Serverless  
+Computer Science undergraduate with hands-on experience in **DevOps, cloud infrastructure, CI/CD automation, and applied cybersecurity exposure**.
+Experienced in working with **Linux systems, AWS services, Dockerized applications, GitHub Actions pipelines**, and **production deployments**.
 
----
-
-### 🔧 Skills & Technologies
-
-#### 👨‍💻 Programming & Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-
-#### ☁️ DevOps & Cloud:
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
-![CloudFormation](https://img.shields.io/badge/-CloudFormation-333333?style=flat&logo=amazonaws)
-
-#### 🛠 Tools:
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+Completed a **government-backed Cyber Cell internship**, gaining real-world exposure to cybercrime investigation workflows.
+Focused on building **automated, reproducible, and production-grade systems**, not academic demos.
 
 ---
 
-### 🚀 Projects
+## 🎓 Education
 
-#### 📌 [Weather App](https://github.com/Suraj-07823/weather_app)
-
-🌦️ **Live Demo**: [Click here to try it out!](https://suraj-07823.github.io/weather_app/)
-
-A web app that delivers real-time weather data with a clean, responsive UI.
-
-- 🛠️ Built using **Python + Flask**
-- 📦 Containerized with **Docker** for consistency across environments
-- 🔄 CI/CD pipeline implemented via **GitHub Actions**
-- ⚙️ Infrastructure planning with **AWS CloudFormation (IaC)**
+**G.H. Raisoni College of Engineering and Management, Nagpur**
+**B.Tech – Computer Science & Engineering** (2023 – 2027)
 
 ---
 
-### 📜 Certifications
+## 🛠 Core Technical Skills
 
-- 🧾 [AWS for Beginners – Certificate](https://drive.google.com/file/d/1LJxivBVygxFrPOytvdFhj16A2QNBpaTZ/view?usp=drive_link)
-- 🧾 [Cloud Computing Service Models – Certificate](https://drive.google.com/file/d/1Cw_SoMJyHopn9kHk9x2LDn_lBHBQqPmp/view?usp=drive_link)
-- 🧾 [Python Internship – Certificate](https://drive.google.com/file/d/1Eh1VU9StH1Xt4ztdIGXZZMCGlBSM6ZEs/view?usp=drive_link)
+### Systems & OS
+
+* Linux (CLI, permissions, process management, basic administration)
+
+### Cloud & DevOps
+
+* AWS: EC2, S3, IAM, Lambda (fundamentals)
+* Infrastructure as Code: CloudFormation (basics)
+* Docker (application containerization)
+* GitHub Actions (CI/CD pipelines)
+
+### Programming & Scripting
+
+* Python (automation, backend, data processing)
+* Bash (basic scripting)
+* Flask (web applications)
+
+### Version Control & Tools
+
+* Git, GitHub
+* Postman
 
 ---
 
-### 🌐 Let's Connect
+## 🧑‍💼 Experience
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Suraj-07823)  
-📬 vishwakarmasuraj089504@gmail.com
+### Cyber Cell Intern — Nagpur City Police
+
+**Dec 2025 – Jan 2026**
+
+* Assisted in **cybercrime investigation workflows** under supervision
+* Studied and analyzed **reported cybercrime cases**
+* Conducted **basic cyber forensic examination** of digital evidence
+* Assisted in **APK analysis** for mobile-related investigations
+
+> Provided direct exposure to cybersecurity operations within a law enforcement environment.
 
 ---
 
-> ⚡ *Actively learning & building. Open to internships and collaborations!*
+### Python Development Intern — ShadowFox
+
+**Aug 2025**
+
+* Analyzed structured datasets using **Pandas**
+* Built **data visualization workflows** using Matplotlib
+* Implemented automated **data-cleaning pipelines**, improving dataset reliability by ~35%
+* Published documented work on GitHub for reproducibility
+
+---
+
+## 🚀 Projects
+
+### 🧁 The Cake House Bakery — Automated CI/CD Web Application
+
+🌐 **Live:** [The Cake House Bakery](https://the-cake-house-bakery.vercel.app)
+
+**Tech Stack:**
+
+* Frontend: HTML, CSS, JavaScript
+* CI/CD: GitHub Actions
+* Hosting & Deployment: Vercel
+* Version Control: Git & GitHub
+
+**DevOps Highlights:**
+
+* CI/CD pipeline triggered on every push to the `main` branch
+* Automated workflow execution using **GitHub Actions**
+* Build validation before deployment
+* Automatic deployment to **Vercel production**
+* Zero manual deployment steps
+* Consistent, fast, and reliable release process
+
+**Business Features:**
+
+* Responsive, mobile-first UI
+* Cake & cupcake product catalog
+* Custom cake pricing logic
+* WhatsApp-based order flow for real customers
+
+---
+
+### 🌦 Weather Monitoring Application — DevOps Enabled Backend
+
+**Tech Stack:** Python, Flask, Docker, GitHub Actions
+
+* Built a Flask-based backend application for real-time weather data
+* Containerized using Docker for environment consistency
+* Implemented CI/CD pipeline using GitHub Actions
+* Focused on repeatable deployments and reduced manual configuration errors
+
+---
+
+## 📜 Certifications & Training
+
+* AWS Developer Associate — Simplilearn
+* AWS SysOps Associate — Simplilearn
+* AWS Database Migration — Simplilearn
+* Python Development Internship — ShadowFox
+
+---
+
+## 🌐 Connect
+
+* **GitHub:** [https://github.com/Suraj-07823](https://github.com/Suraj-07823)
+* **LinkedIn:** [https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/)
+* **Email:** [vishwakarmasuraj089504@gmail.com](mailto:vishwakarmasuraj089504@gmail.com)
+
+---
+
+> Actively building production-grade DevOps projects and preparing for cloud-focused internships.
