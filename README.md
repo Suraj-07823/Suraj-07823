@@ -104,17 +104,6 @@ Focused on building **automated, reproducible, and production-grade systems**, n
 
 ---
 
-### 🌦 Weather Monitoring Application — DevOps Enabled Backend
-
-**Tech Stack:** Python, Flask, Docker, GitHub Actions
-
-* Built a Flask-based backend application for real-time weather data
-* Containerized using Docker for environment consistency
-* Implemented CI/CD pipeline using GitHub Actions
-* Focused on repeatable deployments and reduced manual configuration errors
-
----
-
 ## 📜 Certifications & Training
 
 * AWS Developer Associate — Simplilearn
