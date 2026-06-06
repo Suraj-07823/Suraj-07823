@@ -1,5 +1,5 @@
 # Suraj Vishwakarma
-**DevOps Engineer Intern | Docker | CI/CD | AWS | Linux | GitHub Actions | Terraform **
+**DevOps Engineer Intern | Docker | CI/CD | AWS | Linux | GitHub Actions | Terraform**
 
 Nagpur, India | [vishwakarmasuraj089504@gmail.com](mailto:vishwakarmasuraj089504@gmail.com) | [LinkedIn](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/) | [GitHub](https://github.com/Suraj-07823)
 
