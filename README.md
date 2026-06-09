@@ -5,7 +5,7 @@ Nagpur, India | [vishwakarmasuraj089504@gmail.com](mailto:vishwakarmasuraj089504
 
 ---
 
-## About a
+## About
 
 B.Tech Computer Science & Engineering student (6th semester) with hands-on DevOps experience across two internships. Proficient in Docker containerization, CI/CD pipeline development using GitHub Actions, and cloud infrastructure management on AWS (EC2, S3, IAM, CloudWatch). Experienced in Linux environments, Bash and Python scripting, and deployment automation.
 
