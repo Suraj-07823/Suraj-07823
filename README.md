@@ -1,5 +1,5 @@
 # Suraj Vishwakarma
-**DevOps Engineer Intern | Docker | CI/CD | AWS | Linux | GitHub Actions | Terraform**
+**DevOps Engineer Intern | Docker | CI/CD | AWS | Linux | GitHub Actions**
 
 Nagpur, India | [vishwakarmasuraj089504@gmail.com](mailto:vishwakarmasuraj089504@gmail.com) | [LinkedIn](https://www.linkedin.com/in/suraj-vishwakarma-a281a6261/) | [GitHub](https://github.com/Suraj-07823)
 
@@ -7,9 +7,9 @@ Nagpur, India | [vishwakarmasuraj089504@gmail.com](mailto:vishwakarmasuraj089504
 
 ## About
 
-B.Tech Computer Science & Engineering student (6th semester) with hands-on DevOps experience across two internships. Proficient in Docker containerization, CI/CD pipeline development using GitHub Actions, and cloud infrastructure management on AWS (EC2, S3, IAM, CloudWatch). Experienced in Linux environments, Bash and Python scripting, and deployment automation.
+B.Tech Computer Science & Engineering student with hands-on DevOps experience across three internships. Currently interning at **Netfotech Solutions**, where I containerize and deploy production applications using Docker, GitHub Actions and Nginx across cloud platforms and VPS environments.
 
-Currently deploying **MediLink** — a full-stack healthcare platform — on AWS EC2 with Docker Compose, Nginx, and automated GitHub Actions workflows.
+Built and run **[WellVisit](https://wellvisit.in)**, a role-based healthcare platform live in production, with a Dockerized stack and automated CI/CD. Focused on reliable, repeatable deployments and shorter release cycles.
 
 ---
 
@@ -17,7 +17,7 @@ Currently deploying **MediLink** — a full-stack healthcare platform — on AWS
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech – Computer Science & Engineering | G.H. Raisoni College of Engineering and Management, Nagpur | Present | CGPA: 7.86 |
+| B.Tech – Computer Science & Engineering | G.H. Raisoni College of Engineering and Management, Nagpur | Present | CGPA: 7.98 |
 | HSC – Maharashtra State Board | Priaanti English School and Junior College | 2023 | 62.50% |
 | SSC – Maharashtra State Board | A B C English High School | 2021 | 72.80% |
 
@@ -25,51 +25,58 @@ Currently deploying **MediLink** — a full-stack healthcare platform — on AWS
 
 ## Technical Skills
 
-**CI/CD & Automation:** GitHub Actions, CI/CD pipeline design and maintenance, deployment automation, Vercel
+**CI/CD & Automation:** GitHub Actions, pipeline design and maintenance, SSH-based deployment automation, Vercel
 
-**Containers & Orchestration:** Docker, Docker Compose, containerized application deployment, Kubernetes (concepts)
+**Containers:** Docker, Docker Compose, multi-stage builds, Kubernetes (concepts)
 
-**Cloud Infrastructure:** AWS (EC2, S3, IAM, Lambda, CloudWatch, CloudFormation, Step Functions), Azure (basic), GCP (familiar)
+**Cloud & Hosting:** AWS (EC2, S3, IAM, Lambda, CloudWatch, CloudFormation), Render, Railway, MongoDB Atlas, Neev Cloud and Hostinger VPS, Azure (basic), GCP (familiar)
 
-**Infrastructure as Code:** Terraform (basics), CloudFormation, environment configuration, secrets management
+**Web Servers & Networking:** Nginx reverse proxy, SSL/TLS (Let's Encrypt, certbot)
 
-**Monitoring & Observability:** CloudWatch (alerts, logs, dashboards), Prometheus/Grafana (concepts), system health monitoring, log analysis
+**Infrastructure as Code:** Terraform (basics), CloudFormation, environment and secrets management
 
-**Systems & Scripting:** Linux (CLI, permissions, process management, system monitoring), Bash scripting, Python (automation), Git, GitHub
+**Monitoring:** CloudWatch (alerts, logs), Prometheus/Grafana (concepts), log analysis
+
+**Systems & Scripting:** Linux (CLI, permissions, process management), Bash, Python, Git, GitHub
 
 ---
 
 ## Experience
 
+### DevOps Intern — Netfotech Solutions, Nagpur
+*Jun 2026 – Present*
+
+- Migrated client web applications (Node.js, FastAPI, React, MongoDB) from manually managed servers and Docker Compose setups to containerized, cloud-hosted environments on AWS EC2, Render, Vercel, Railway and VPS, with Nginx reverse proxy and SSL, replacing manual server setup with repeatable deployments.
+- Built GitHub Actions CI/CD pipelines with automated SSH deployment, so every merge goes live without manual server work, cutting release effort and the risk of human error on production.
+
+---
+
 ### Cyber Cell Intern — Nagpur City Police
 *Dec 2025 – Jan 2026*
 
-- Assisted digital forensic investigators in analyzing cybercrime cases spanning social media fraud, UPI/financial scams, and mobile APK malware — gaining practical exposure to security workflows, digital evidence handling, and system security practices.
-- Supported documentation and categorization of incident records, contributing to organized record-keeping and cross-team visibility within the investigation unit.
-- Developed understanding of how cloud infrastructure, access control, and security configurations intersect in high-stakes real-world environments.
+- Assisted digital forensic investigators on cybercrime cases including social media fraud, UPI/financial scams and mobile APK malware, gaining hands-on exposure to digital evidence handling and security workflows.
+- Documented and categorized incident records, improving record-keeping and visibility across the investigation unit.
 
 ---
 
 ### Python Development Intern — ShadowFox
 *Aug 2025 – Sep 2025*
 
-- Independently developed Python data analysis and automation scripts using Pandas and Matplotlib — writing, testing, and iterating on solutions to process real datasets and generate visualizations.
-- Maintained disciplined version control using Git and GitHub, following clean commit practices and documenting scripts to enable team-wide reproducibility and knowledge transfer.
-- Applied scripting and automation principles to build reliable data processing pipelines — directly transferable to DevOps automation and deployment scripting workflows.
+- Developed Python data analysis and automation scripts with Pandas and Matplotlib, processing real datasets and generating visualizations.
+- Used Git and GitHub with clean commit practices and documented scripts so the work was reproducible for the whole team.
 
 ---
 
 ## Projects
 
-### MediLink — Full-Stack Platform on AWS
+### [WellVisit](https://wellvisit.in) — Role-Based Healthcare Platform
 *Jan 2026 – Present*
 
-**Stack:** Docker · GitHub Actions · AWS EC2 · Nginx · Node.js · React.js
+**Stack:** React (Vite) · Tailwind · Node.js · Express · MongoDB · Docker · GitHub Actions
 
-- Set up and maintaining a full CI/CD pipeline using GitHub Actions that automatically builds, tests, and deploys the application to AWS EC2 on every push to main — reducing manual deployment effort to zero.
-- Containerized the full application stack (React.js frontend, Node.js backend, MongoDB) using Docker Compose; configured Nginx as a reverse proxy with SSL (Let's Encrypt) for secure production-grade deployment.
-- Managing cloud infrastructure on AWS EC2: configured security groups, IAM roles, S3 bucket for file storage, and CloudWatch monitoring with CPU/memory alerts and structured logging for real-time system observability.
-- Implementing Infrastructure as Code using Terraform to provision EC2 instances and security groups — ensuring reproducible, version-controlled environment configurations across development and production.
+- Clinics still depend on phone bookings, desk queues and paper prescriptions, so I built role-based patient, doctor and admin apps with scheduling, OTP/QR check-in and digital prescriptions, letting patients book and check in without waiting and keeping prescriptions from being lost or misread; live at [wellvisit.in](https://wellvisit.in).
+- Manual releases and a low-memory server made the app fragile, so I moved it to Docker multi-stage builds with automated GitHub Actions deploys over SSH and fixed RAM/disk exhaustion and a MongoDB transaction failure, so updates ship on every push and the platform runs reliably on a small, low-cost server.
+- The early build relied on prototype-level security and mock data, so I hardened security and replaced the mock data with real API integrations, making the platform safe to use with real patient data.
 
 ---
 
@@ -78,7 +85,7 @@ Currently deploying **MediLink** — a full-stack healthcare platform — on AWS
 
 **Stack:** GitHub Actions · Linux · Bash · Vercel
 
-- Designed and deployed a fully automated CI/CD pipeline using GitHub Actions for a production web application — achieving 50% faster deployments and ~30% fewer deployment errors through repeatable, version-controlled workflows with zero manual intervention.
+- Manual deployments for a production web app were slow and error-prone, so I automated them with a GitHub Actions pipeline, making deployments about 50% faster with roughly 30% fewer errors.
 
 ---
 
